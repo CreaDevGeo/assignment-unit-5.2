@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(5, 49, 63) ;
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0px;
+}
+
+header {
+    background-color: rgb(7, 81, 106);
+    color: rgb(255, 247, 229);
+    text-align: center;
+}
+
+main {
+    background-color: rgb(174, 174, 174);
+    padding: 1em;
+}
+
+.questions {
+   color: rgb(255, 247, 229); 
+}
